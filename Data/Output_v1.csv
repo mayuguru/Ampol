@@ -1,0 +1,141 @@
+product_name,product_hier_1,product_hier_2,product_hier_3,year,period_type,period,unit,value
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,June,bbl,
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,June,bbl,
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,July,bbl,
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,August,bbl,4
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,September,bbl,5.1
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,October,bbl,5.2
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,November,bbl,5.3
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2019,Monthly,December,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,January,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,February,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,March,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,April,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,May,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,June,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,July,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,August,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,September,bbl,5.8
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,October,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,November,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2020,Monthly,December,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2021,Quarterly,Q1,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2021,Quarterly,Q2,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2021,Quarterly,Q3,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2021,Quarterly,Q4,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2022,Quarterly,Q1,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2022,Quarterly,Q2,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2022,Quarterly,Q3,bbl,5.5
+CRUDE,Physical,Physical Premiums,Regional vs Dated Brent,2022,Quarterly,Q4,bbl,5.5
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,June,bbl,
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,June,bbl,
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,July,bbl,
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,August,bbl,3.5
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,September,bbl,3.5
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,October,bbl,3.5
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,November,bbl,3.5
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2019,Monthly,December,bbl,3.5
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,January,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,February,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,March,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,April,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,May,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,June,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,July,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,August,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,September,bbl,3
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,October,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,November,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2020,Monthly,December,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2021,Quarterly,Q1,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2021,Quarterly,Q2,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2021,Quarterly,Q3,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2021,Quarterly,Q4,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2022,Quarterly,Q1,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2022,Quarterly,Q2,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2022,Quarterly,Q3,bbl,2.7
+CRUDE,Physical,Physical Premiums,US vs Dated Brent,2022,Quarterly,Q4,bbl,2.7
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,June,bbl,
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,June,bbl,
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,July,bbl,
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,August,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,September,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,October,bbl,0.75
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,November,bbl,0.75
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2019,Monthly,December,bbl,-0.1
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,January,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,February,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,March,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,April,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,May,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,June,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,July,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,August,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,September,bbl,0.8
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,October,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,November,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2020,Monthly,December,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2021,Quarterly,Q1,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2021,Quarterly,Q2,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2021,Quarterly,Q3,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2021,Quarterly,Q4,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2022,Quarterly,Q1,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2022,Quarterly,Q2,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2022,Quarterly,Q3,bbl,0.5
+CRUDE,Physical,Physical Premiums,WAF vs Dated Brent,2022,Quarterly,Q4,bbl,0.5
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,June,bbl,
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,June,bbl,12
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,July,bbl,10.5
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,August,bbl,10.5
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,September,bbl,10.5
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,October,bbl,12
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,November,bbl,12
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2019,Monthly,December,bbl,12
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,January,bbl,15
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,February,bbl,15
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,March,bbl,15
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,April,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,May,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,June,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,July,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,August,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,September,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,October,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,November,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2020,Monthly,December,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2021,Quarterly,Q1,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2021,Quarterly,Q2,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2021,Quarterly,Q3,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2021,Quarterly,Q4,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2022,Quarterly,Q1,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2022,Quarterly,Q2,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2022,Quarterly,Q3,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,FCCU Feed Premium vs Dated Brent,2022,Quarterly,Q4,bbl,13
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,June,mt,
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,June,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,July,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,August,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,September,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,October,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,November,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2019,Monthly,December,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,January,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,February,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,March,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,April,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,May,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,June,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,July,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,August,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,September,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,October,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,November,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2020,Monthly,December,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2021,Quarterly,Q1,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2021,Quarterly,Q2,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2021,Quarterly,Q3,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2021,Quarterly,Q4,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2022,Quarterly,Q1,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2022,Quarterly,Q2,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2022,Quarterly,Q3,mt,0
+HEAVY DISTILLATES,Physical,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,2022,Quarterly,Q4,mt,0
